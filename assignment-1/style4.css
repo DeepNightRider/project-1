@@ -1,0 +1,154 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    margin: 0 auto;
+    
+}
+
+nav {
+    height: 98px;
+    box-shadow: 0 10px 15px rgba(0, 0 ,0,0.1);
+}
+
+.logo {
+    padding: 5px 0 0 80px;
+    width: 100px;
+    height: auto;
+}
+
+nav ul {
+    
+    padding: 0;
+    margin: 0;
+    float: right;
+    margin-right: 30px;
+}
+
+nav ul li {
+    position: relative;
+    list-style: none;
+    display: inline-block;
+}
+
+nav ul li a {
+    display: block;
+    padding: 19px 15px;
+    color: black;
+    text-decoration: none;
+    line-height: 60px;
+    font-size: 26px;
+}
+
+nav ul ul {
+    position: absolute;
+    top: 600px;
+    display: none;
+}
+.description-container {
+    max-width: 600px;
+    margin: 40px auto 20px;
+}
+
+.description-container .floating-image {
+    max-width: 626px;
+}
+
+.description-container .floating-image.right {
+    float: right;
+    margin-left: 30px;
+    margin-bottom: 10px;
+    margin-right: -221px;
+}
+
+.description-container .floating-image.left {
+    float: left;
+    margin-right: 52px;
+    margin-bottom: 10px;
+    margin-left: -318px;
+    height: 75vh;
+    width: 500vw;
+}
+
+.description-container1 {
+    max-width: 600px;
+    margin: 40px auto 20px;
+}
+
+.finishing1 {
+    padding-top: 69px;
+    color: black;
+    font-size: 32px;
+    text-align: right;
+    margin: 1px -309px;
+}
+.finishing2 {
+    padding-top: 69px;
+    color: black;
+    font-size: 19px;
+    text-align: right;
+    margin: 1px -309px;
+}
+.paragraph2 {
+    /* text-align: right; */
+    margin: 21px -194px;
+    font-size: 19px;
+}
+.price {
+    font-size: 19px;
+    color: #0000008f;
+}
+.price1 {
+    font-size: 19px;
+}
+.btn {
+    background-color: green;
+    text-align: center;
+    font-size: 19px;
+    color: white;
+    margin: 15px 0px;
+    padding: 15px 35px;
+}
+.image1 {
+    width: 66%;
+    height: auto;
+    display: block;
+    margin-bottom: auto;
+    margin: -2px -117px;
+    padding: 10px;
+    box-sizing: border-box;
+    box-shadow: 0 0 15px rgba(0, 0, 0, .2);
+}
+.image2 {
+    width: 66%;
+    height: auto;
+    display: block;
+    margin-bottom: auto;
+    margin: -91px -236px;
+    padding: 10px;
+    box-sizing: border-box;
+    box-shadow: 0 0 15px rgba(0, 0, 0, .2);
+}
+.image3 {
+    width: 64%;
+    height: 23vh;
+    display: block;
+    margin-bottom: auto;
+    margin: -215px -16px;
+    padding: 10px;
+    box-sizing: border-box;
+    box-shadow: 0 0 15px rgba(0, 0, 0, .2);
+}
+.column {
+    column-count: 3;
+    column-gap: 15px;
+    max-width: 1000px;
+    margin: auto;
+    padding: auto;
+    
+}
+.para {
+    margin: 12px 18px;
+}
