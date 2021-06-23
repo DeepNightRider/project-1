@@ -1,0 +1,59 @@
+nav {
+    width: 252%;
+}
+.logo {
+    padding: 2px 0 0 8px;
+}
+.description-container {
+    max-width: 600px;
+    margin: 40px auto 20px;
+}
+.description-container {
+    margin: 40px 383px 20px;
+}
+.description-container .floating-image.right {
+    margin-right: -698px;
+}
+.paragraph2 {
+    margin: 2px -605px;
+}
+.finishing1 {
+    margin: 1px -343px;
+}
+.description-container1 .floating-image {
+    max-width: 335px;
+}
+.description-container1 .floating-image.left {
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 10px;
+    margin-left: 43px;
+    padding-right: 160px;
+}
+.quote1 {
+    width: 19%;
+    margin: 11px 563px;
+    padding: 14px 32px;
+}
+.description-container1 .floating-image.right {
+    margin-right: -473px;
+}
+.footer {
+    width: 233%;
+}
+section1 {
+    width: 226%;
+}
+.final1 {
+    width: 220%;
+}
+.description-container1 {
+    width: 600px;
+}
+.finishing {
+    margin: 1px 150px;
+}
+.paragraph {
+    margin: 23px 38px;
+}
+

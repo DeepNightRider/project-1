@@ -1,126 +1,30 @@
-body {
-    margin: 0;
-    padding: 0;
-}
-
-.navbar {
-    margin: 0 auto;
-    
-}
-
 nav {
-    height: 98px;
-    box-shadow: 0 10px 15px rgba(0, 0 ,0,0.1);
+    width: 170%;
 }
-
 .logo {
-    padding: 5px 0 0 80px;
-    width: 100px;
-    height: auto;
-}
-
-nav ul {
-    padding: 0;
-    margin: 0;
-    float: right;
-    margin-right: 30px;
-}
-
-nav ul li {
-    position: relative;
-    list-style: none;
-    display: inline-block;
-}
-
-nav ul li a {
-    display: block;
-    padding: 19px 15px;
-    color: black;
-    text-decoration: none;
-    line-height: 60px;
-    font-size: 26px;
-}
-
-nav ul ul {
-    position: absolute;
-    top: 600px;
-    display: none;
-}
-
-.description-container {
-    max-width: 600px;
-    margin: 40px auto 20px;
-}
-
-.description-container .floating-image {
-    max-width: 462px;
-}
-
-.description-container .floating-image.right {
-    float: right;
-    margin-left: 30px;
-    margin-bottom: 10px;
-    margin-right: -221px;
+    padding: 2px 0 0 8px;
 }
 .header {
-    font-size: 34px;
-    margin: 7px -325px;
-    padding-top: 122px;
+    font-size: 29px;
+    margin: 7px 23px;
+    padding-top: 48px;
 }
-
-
+.description-container .floating-image {
+    max-width: 259px;
+}
 .header1 {
     font-size: 24px;
-    margin: 0px -325px;
+    margin: 0px 26px;
 }
-
-* {
-    margin: 0;
-    padding: 0;
-    list-style: none;
-    text-decoration: none;
+.description-container .floating-image.right {
+    margin-right: -300px;
 }
 .sidebar {
-    position: absolute;
-    left: 0;
-    width: 350px;
-    height: auto;
-    background: rgb(16, 230, 80);
-    border-top: 1px solid black;
-    border-left: 1px solid black;
-    border-right: 1px solid black;
-    border-bottom: 1px solid black;
-}
-.sidebar header{
-    font-size: 22px;
-    color: black;
-    text-align: center;
-    line-height: 70px;
-    background: white;
-    user-select: none;
-}
-.sidebar ul a{
-    display: block;
-    height: 14vh;
-    width: 100%;
-    line-height: 50px;
-    font-size: 20px;
-    color: white;
-    padding-left: 40px;
-    box-sizing: border-box;
-    border-bottom: 1px solid black;
-    
-}
-ul li:hover a{
-    padding-left: 50px;
-}
-
-.sidebar ul a i{
-    margin-right: 16px;
+    width: 280px;
 }
 
 #body {
-    background: #eee;
+    background: white;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -129,11 +33,12 @@ ul li:hover a{
 }
 
 .grid {
-    display: grid;
+    display: flex;
     width: 114em;
     grid-gap: 0rem;
-    grid-template-columns: repeat(auto-fit, minmax(21rem, 1fr));
-    align-items: start;
+    /* grid-template-columns: repeat(auto-fit, minmax(21rem, 1fr)); */
+    align-items: flex-start;
+    flex-wrap: wrap;
 }
 .grid-tem {
     border-radius: 0.4rem;

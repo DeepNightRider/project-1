@@ -1,0 +1,137 @@
+/* :root{
+    --navbar-height: 15px;
+} */
+#navbar{
+    flex-direction: row;
+    width: 203%;
+}
+
+#home {
+    display: flex;
+    flex-direction: column;
+    width: 157%;
+}
+
+#about {
+    flex-direction: row;
+    width: 204%;
+    height: auto;
+}
+.container {
+    flex-direction: column;
+    width: 75%;
+}
+.description-container {
+    max-width: 200px;
+    /* margin: 40px auto 20px; */
+    padding-left: 85px;
+}
+
+.description-container .floating-image {
+    max-width: 383px;
+}
+
+.description-container .floating-image.right {
+    float: right;
+    margin-left: 30px;
+    margin-bottom: 10px;
+    margin-right: -538px;
+}
+
+.description-container .floating-image.left {
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 10px;
+    margin-left: -233px;
+}
+.finishing {
+    margin: 6px -70px;
+    padding: 35px 1px;
+}
+
+.paragraph {
+    text-align: left;
+    margin: 23px -75px;
+    font-size: 17px;
+}
+.description-container1 {
+    max-width: 200px;
+    /* margin: 40px auto 20px; */
+    
+}
+
+.description-container1 .floating-image {
+    max-width: 354px;
+}
+
+.description-container1 .floating-image.right {
+    float: right;
+    margin-left: 169px;
+    margin-bottom: -3px;
+    margin-right: -221px;
+}
+
+.description-container1 .floating-image.left {
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 10px;
+    margin-left: -54px;
+    padding-left: 20px;
+}
+.finishing1 {
+    padding-top: 12px;
+    margin: 1px -390px;
+}
+.paragraph2 {
+    text-align: left;
+    margin: 21px -509px;
+    font-size: 17px;
+}
+
+.final {
+    text-align: center;
+    font-size: 48px;
+    padding-bottom: 25px;
+    width: 200%;
+}
+.final1 {
+    width: 200%;
+}
+.column {
+    column-count: 3;
+    column-gap: 15px;
+    width: 140%;
+    margin: -34px 18px;
+    padding: 43px 136px;
+}
+#about1 {
+    width: 205%;
+}
+section1 .container1 {
+    min-width: 637px;
+}
+
+.choice {
+    width: 44%;
+    margin: 32px 105px;
+    padding: 18px 145px;
+}
+.girl {
+    width: 36%;
+    padding: 15px;
+}
+section1 .container1 .contactinfo .logooo {
+    margin: 227px 6px;
+    padding: 15px 18px;
+}
+.footer {
+    width: 187%;
+    margin: 99px 0px;
+    padding: 42px 44px;
+}
+.h-secondary1 {
+    width: 250%;
+}
+
+
+

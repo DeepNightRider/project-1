@@ -51,7 +51,7 @@ section .container1 .contactinfo {
     position: absolute;
     top: 30px;
     width: 438px;
-    background: #f076ec;
+    background: green;
     height: calc(100% - 220px);
     z-index: 1;
     padding: 22px;
