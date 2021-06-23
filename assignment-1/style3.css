@@ -200,7 +200,6 @@ ul li:hover a{
 .column1 {
     column-count: 3;
     column-gap: 15px;
-    /* max-width: 200px; */
     max-height: 200px;
     margin: auto;
     padding: auto;
@@ -209,7 +208,6 @@ ul li:hover a{
 .column2 {
     column-count: 3;
     column-gap: 15px;
-    /* max-width: 270px; */
     max-height: 200px;
     margin: auto;
     padding: auto;
@@ -218,7 +216,6 @@ ul li:hover a{
 .column3 {
     column-count: 3;
     column-gap: 15px;
-    /* max-width: 360px; */
     max-height: 200px;
     margin: auto;
     padding: auto;
@@ -227,7 +224,6 @@ ul li:hover a{
 .column4 {
     column-count: 3;
     column-gap: 15px;
-    /* max-width: 200px; */
     max-height: 200px;
     margin: auto;
     padding: auto;
@@ -236,7 +232,6 @@ ul li:hover a{
 .column5 {
     column-count: 3;
     column-gap: 15px;
-    /* max-width: 200px; */
     max-height: 200px;
     margin: auto;
     padding: auto;
@@ -245,7 +240,6 @@ ul li:hover a{
 .column6 {
     column-count: 3;
     column-gap: 15px;
-    /* max-width: 200px; */
     max-height: 200px;
     margin: auto;
     padding: auto;

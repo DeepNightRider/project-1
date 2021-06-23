@@ -150,10 +150,6 @@ section .container1 .contactform .formBox .inputBox {
     margin: 0 0 15px 0;
 }
 
-/* * {
-    margin: 3px;
-} */
-
 section .container1 .contactform .formBox .inputBox.w50 {
     width: 60%;
 }

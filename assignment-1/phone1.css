@@ -36,7 +36,6 @@ nav {
     display: flex;
     width: 114em;
     grid-gap: 0rem;
-    /* grid-template-columns: repeat(auto-fit, minmax(21rem, 1fr)); */
     align-items: flex-start;
     flex-wrap: wrap;
 }
@@ -105,7 +104,6 @@ nav {
 .column1 {
     column-count: 3;
     column-gap: 15px;
-    /* max-width: 200px; */
     max-height: 200px;
     margin: auto;
     padding: auto;
@@ -114,7 +112,6 @@ nav {
 .column2 {
     column-count: 3;
     column-gap: 15px;
-    /* max-width: 270px; */
     max-height: 200px;
     margin: auto;
     padding: auto;
@@ -123,7 +120,6 @@ nav {
 .column3 {
     column-count: 3;
     column-gap: 15px;
-    /* max-width: 360px; */
     max-height: 200px;
     margin: auto;
     padding: auto;
@@ -132,7 +128,6 @@ nav {
 .column4 {
     column-count: 3;
     column-gap: 15px;
-    /* max-width: 200px; */
     max-height: 200px;
     margin: auto;
     padding: auto;
@@ -141,7 +136,6 @@ nav {
 .column5 {
     column-count: 3;
     column-gap: 15px;
-    /* max-width: 200px; */
     max-height: 200px;
     margin: auto;
     padding: auto;
@@ -150,7 +144,6 @@ nav {
 .column6 {
     column-count: 3;
     column-gap: 15px;
-    /* max-width: 200px; */
     max-height: 200px;
     margin: auto;
     padding: auto;
