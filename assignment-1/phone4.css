@@ -1,5 +1,5 @@
 nav {
-    width: 225%;
+    width: 290%;
 }
 .logo {
     padding: 2px 0 0 8px;
@@ -8,7 +8,7 @@ nav {
     float: left;
     margin-right: 52px;
     margin-bottom: -25px;
-    margin-left: 16px;
+    margin-left: 34px;
     height: 52vh;
     width: 420vw;
 }
@@ -20,7 +20,7 @@ nav {
     color: black;
     font-size: 30px;
     text-align: right;
-    margin: -1px -415px;
+    margin: -1px -536px;
 }
 .paragraph2 {
     margin: 21px -536px;
@@ -40,31 +40,31 @@ nav {
     padding: 14px 114px;
 }
 .image3 {
-    width: 162%;
-    height: 31vh;
+    width: 235%;
+    height: 32vh;
     display: block;
     margin-bottom: auto;
-    margin: -85px -296px;
+    margin: -85px -204px;
     padding: 10px;
     box-sizing: border-box;
     box-shadow: 0 0 15px rgb(0 0 0 / 20%);
 }
 .image2 {
-    width: 178%;
+    width: 255%;
     height: auto;
     display: block;
     margin-bottom: auto;
-    margin: -77px 130px;
+    margin: -77px 224px;
     padding: 10px;
     box-sizing: border-box;
     box-shadow: 0 0 15px rgb(0 0 0 / 20%);
 }
 .image1 {
-    width: 177%;
+    width: 251%;
     height: auto;
     display: block;
     margin-bottom: auto;
-    margin: 10px 586px;
+    margin: 10px 693px;
     padding: 10px;
     box-sizing: border-box;
     box-shadow: 0 0 15px rgb(0 0 0 / 20%);
@@ -76,4 +76,15 @@ h2 {
 h5 {
     margin: -21px 29px;
     font-size: 20px;
+}
+/* .price1 {
+    font-size: 19px;
+    margin: 15px 18px;
+    padding: 15px 18px;
+}  */
+.price {
+    font-size: 19px;
+    color: #0000008f;
+    margin: 15px -338px;
+    padding: 15px 124px;
 }

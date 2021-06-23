@@ -3,18 +3,18 @@
 } */
 #navbar{
     flex-direction: row;
-    width: 203%;
+    width: 247%;
 }
 
 #home {
     display: flex;
     flex-direction: column;
-    width: 157%;
+    width: 185%;
 }
 
 #about {
     flex-direction: row;
-    width: 204%;
+    width: 246%;
     height: auto;
 }
 .container {
@@ -92,7 +92,7 @@
     text-align: center;
     font-size: 48px;
     padding-bottom: 25px;
-    width: 200%;
+    width: 232%;
 }
 .final1 {
     width: 200%;
@@ -105,10 +105,10 @@
     padding: 43px 136px;
 }
 #about1 {
-    width: 205%;
+    width: 247%;
 }
 section1 .container1 {
-    min-width: 637px;
+    min-width: 590px;
 }
 
 .choice {
@@ -125,12 +125,12 @@ section1 .container1 .contactinfo .logooo {
     padding: 15px 18px;
 }
 .footer {
-    width: 187%;
+    width: 225%;
     margin: 99px 0px;
     padding: 42px 44px;
 }
 .h-secondary1 {
-    width: 250%;
+    width: 315%;
 }
 
 
